@@ -9,15 +9,15 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JosefuJP/JosefuJP](https://github.com/JosefuJP/JosefuJP)<br>
-2. ⬆️ Pushed undefined commit(s) to [JosefuJP/JosefuJP](https://github.com/JosefuJP/JosefuJP)<br>
+1. ⬆️ Pushed undefined commit(s) to [JosephSIV/JosefuJP](https://github.com/JosephSIV/JosefuJP)<br>
+2. ⬆️ Pushed undefined commit(s) to [JosephSIV/JosefuJP](https://github.com/JosephSIV/JosefuJP)<br>
 3. ⬆️ Pushed undefined commit(s) to [AprendiendoConJoseph/.github](https://github.com/AprendiendoConJoseph/.github)<br>
-4. ⬆️ Pushed undefined commit(s) to [JosefuJP/MiCuartoRepo](https://github.com/JosefuJP/MiCuartoRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [JosefuJP/JosefuJP](https://github.com/JosefuJP/JosefuJP)<br>
+4. ⬆️ Pushed undefined commit(s) to [JosephSIV/MiCuartoRepo](https://github.com/JosephSIV/MiCuartoRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [JosephSIV/JosefuJP](https://github.com/JosephSIV/JosefuJP)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 14th, 2026, 3:53:37 AM
+Last Updated: Monday, September 14th, 2026, 5:52:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## VIAS DE CONTACTO
